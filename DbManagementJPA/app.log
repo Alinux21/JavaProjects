@@ -1,0 +1,6 @@
+May 06, 2024 7:20:52 PM org.example.Main main
+INFO: This is an info message
+May 06, 2024 7:20:52 PM org.example.Main main
+WARNING: This is a warning message
+May 06, 2024 7:20:52 PM org.example.Main main
+SEVERE: This is a severe message

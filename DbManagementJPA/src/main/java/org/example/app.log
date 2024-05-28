@@ -1,0 +1,12 @@
+May 13, 2024 7:14:43 AM org.example.JPA.AbstractRepository save
+INFO: Execution time: 19ms
+May 13, 2024 7:14:43 AM org.example.JPA.AbstractRepository save
+INFO: Execution time: 0ms
+May 13, 2024 7:14:43 AM org.example.JPA.AbstractRepository save
+INFO: Execution time: 0ms
+May 13, 2024 6:29:34 PM org.example.JPA.AbstractRepository save
+INFO: Execution time: 20ms
+May 13, 2024 6:29:34 PM org.example.JPA.AbstractRepository save
+INFO: Execution time: 0ms
+May 13, 2024 6:29:34 PM org.example.JPA.AbstractRepository save
+INFO: Execution time: 0ms
