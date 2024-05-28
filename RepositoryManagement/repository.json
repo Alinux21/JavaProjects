@@ -1,0 +1,36 @@
+{
+    "directory": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo",
+    "documents": {
+        "Person[id=123, name=Nechita]": [
+            {
+                "id": 4,
+                "name": "seal.mp4",
+                "path": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo\\Nechita_123\\seal.mp4"
+            }
+        ],
+        "Person[id=125, name=Hurjui]": [
+            {
+                "id": 0,
+                "name": "lab5.pdf",
+                "path": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo\\Hurjui_125\\lab5.pdf"
+            }
+        ],
+        "Person[id=124, name=Moloce]": [
+            {
+                "id": 1,
+                "name": "meme.jpg",
+                "path": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo\\Moloce_124\\meme.jpg"
+            },
+            {
+                "id": 2,
+                "name": "passwords.txt",
+                "path": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo\\Moloce_124\\passwords.txt"
+            },
+            {
+                "id": 3,
+                "name": "proiecte de lectii- exemplificari.pdf",
+                "path": "C:\\Users\\alinm\\Desktop\\java_course_fii_2024\\lab5\\homework\\repo\\Moloce_124\\proiecte de lectii- exemplificari.pdf"
+            }
+        ]
+    }
+}
